@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "54b6",
+      "email": "hello@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "b60c",
+      "email": "hello@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "38bd",
+      "email": "hello@gmail.com",
+      "password": "12345"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "I Phone 15",
+      "price": 1200,
+      "img": "https://m.media-amazon.com/images/I/61bK6PMOC3L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "2",
+      "name": "I Phone 15 Plus",
+      "price": 1500,
+      "img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-card-40-iphone15prohero-202309_FMT_WHH?wid=508&hei=472&fmt=p-jpg&qlt=95&.v=1693086369818"
+    },
+    {
+      "id": "3",
+      "name": "Samsung Galaxy S24 Ultra",
+      "price": 1300,
+      "img": "https://m.media-amazon.com/images/I/81vxWpPpgNL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Samsung Galaxy S24 Ultra",
+      "price": 1150,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/2401/gallery/in-galaxy-s24-plus-sm-s926bzvbins-539572978?$650_519_PNG$"
+    },
+    {
+      "id": "5",
+      "name": "Samsung Galaxy S24 ",
+      "price": 1050,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-s921bzabins/gallery/in-galaxy-s24-492654-492654-sm-s921bzabins-541169451?$650_519_PNG$"
+    },
+    {
+      "id": "6",
+      "name": "Samsung Galaxy Z Flip 5",
+      "price": 1380,
+      "img": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1708666993/Croma%20Assets/Communication/Mobiles/Images/275460_0_twt7q8.png?tr=w-600"
+    }
+  ],
+  "cart": []
+}
